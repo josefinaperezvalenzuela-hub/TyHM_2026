@@ -13,12 +13,12 @@ Mediación de Materiales TyHM 2026
 |Grupo de Trabajo | Github de entrega  | Rúbricas |
 |-----------------|------------------------------------------------------------|-------------|
 | Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |
-| Aleph |  | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol,  |
+| Aleph | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  |
 | Alfa | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |    
 | Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura |
 | Budín de banana |  | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta  |
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
-| Clasica y moderna |  | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
+| Clasica y moderna | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
 | Concejo de sabios |  |//	Pedro, Spongia,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío ,//	Joaquín  |
 | Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
